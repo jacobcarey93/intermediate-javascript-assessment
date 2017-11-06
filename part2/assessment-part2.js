@@ -43,9 +43,6 @@ function noWeakLink() {
     method: 'GET',
     url: '/api/users'
   })
-  // CODE HERE...
-
-}
 
 
 
